@@ -25,3 +25,7 @@ https://github.com/dadadel/codelauncher
 https://pybee.org/
 
 - write app in Python and release on multiple platforms
+
+http://mypy-lang.org/index.html
+
+- static type checker for Python. Works in combination with type hinting feature
